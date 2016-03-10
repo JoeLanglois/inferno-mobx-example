@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "inferno": "^0.5.13",
-    "inferno-dom": "^0.5.13"
+    "inferno-dom": "^0.5.13",
+    "mobx": "^2.0.2"
   }
 }
